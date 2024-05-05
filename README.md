@@ -15,7 +15,6 @@ This Python script retrieves information about movies from IMDb using the IMDbPY
 
 - Python 3.x
 - `imdbpy` library
-- IMDB API Key
 
 ## Installation
 
