@@ -4,6 +4,11 @@ IMDB_Movie_Info_Scrapper
 # IMDb Movie Info Scraper
 This Python script retrieves information about movies from IMDb using the IMDbPY library. It reads a list of movie titles from a CSV file, searches for each title on IMDb, and extracts details such as rating, votes, and genres. The retrieved information is then saved to another CSV file.
 
+This Script is intended to be used after the genre.py script created: as the genre.py script will get a list of all movies within a category
+you can alternativly use your own list of moveies and get infromation 
+
+Note: this may potentially get your IP blocked by IMDB: due to high volume of traffic 
+
 ## Features
 
 - Retrieves movie information from IMDb
